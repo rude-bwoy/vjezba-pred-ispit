@@ -51,6 +51,10 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     <h2>OVO JE NOVO DODANO DA VIDIMO RADI LI AUTOMATIC DEPLOY NA SAGING</h2>
 
+    <br>
+
+    <h2>OVO JE DODANO ZA PROVJERU PROMOTEANJA NA PRODUKCIJU</h2>
+
     <?php if(!empty($message)) {echo $message; } ?>
         <form action="" method="post">
             <input type="text" name="imePrezime" value="Unesite svoje ime i prezime"><br>
