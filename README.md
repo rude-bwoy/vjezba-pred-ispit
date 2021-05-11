@@ -1,0 +1,2 @@
+# vjezba-pred-ispit
+vjezba
