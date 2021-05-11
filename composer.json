@@ -1,0 +1,11 @@
+{
+    "name": "iv/vjezba-pred-ispit",
+    "description": "vjezba pred ispit",
+    "license": "MIT",
+    "require": {
+        "php" : ">=7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^9"
+    }
+}
