@@ -49,7 +49,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     <h1>Ispit - Ivan Vidović</h1>
     <br><br>
 
-
+    <h2>OVO JE NOVO DODANO DA VIDIMO RADI LI AUTOMATIC DEPLOY NA SAGING</h2>
 
     <?php if(!empty($message)) {echo $message; } ?>
         <form action="" method="post">
