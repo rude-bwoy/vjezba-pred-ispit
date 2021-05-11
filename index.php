@@ -54,6 +54,10 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     <br>
 
     <h2>OVO JE DODANO ZA PROVJERU PROMOTEANJA NA PRODUKCIJU</h2>
+    
+    <br>
+
+    <h2>OVO JE PROVJERA RADI LI SE AUTOMATSKI DEPLOY NA PRODUKCIJU</h2>
 
     <?php if(!empty($message)) {echo $message; } ?>
         <form action="" method="post">
